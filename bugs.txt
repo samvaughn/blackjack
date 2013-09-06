@@ -1,0 +1,21 @@
+Welcome to Blackjack
+The Dealer has: ["♦", "9"] and ["♠", "3"], for a total of: 12
+
+You have: ["♦", "7"] and ["♣", "7"], for a total of: 14
+
+
+What would you like to do? 1) Hit Me!  2) Stay
+1
+Dealing card to player: ["♠", "Ace"]
+Your total is now: 15
+What would you like to do? 1) Hit Me!  2) Stay
+1
+Dealing card to player: ["♣", "3"]
+Your total is now: 18
+What would you like to do? 1) Hit Me!  2) Stay
+1
+Dealing card to player: ["♥", "6"]
+Your total is now: 14
+What would you like to do? 1) Hit Me!  2) Stay
+2
+Very well.
